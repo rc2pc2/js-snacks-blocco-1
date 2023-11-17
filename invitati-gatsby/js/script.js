@@ -21,3 +21,9 @@ for (let index = 0; index < guestList.length; index++) {
 }
 
 console.log(answer);
+
+// const outputElement = document.getElementById('output');
+// const outputElement = document.querySelector('pre#output');
+
+// outputElement.append(answer);
+// outputElement.innerHTML = answer  ;
